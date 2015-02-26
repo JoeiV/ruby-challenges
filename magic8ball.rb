@@ -8,45 +8,45 @@ def fortune
 
 case rando_fortune ##Assign fortunes to case statement numbers
   when 1
-  puts answer = "It is certain"
+  answer = "It is certain"
   when 2
-  puts answer = "It is decidedly so"
+  answer = "It is decidedly so"
   when 3 
-  puts answer = "Without a doubt"
+  answer = "Without a doubt"
   when 4
-  puts answer = "Yes definitely"
+  answer = "Yes definitely"
   when 5
-  puts answer = "You may rely on it"
+  answer = "You may rely on it"
   when 6 
-  puts answer = "As I see it, yes"
+  answer = "As I see it, yes"
   when 7 
-  puts answer = "Most likely"
+  answer = "Most likely"
   when 8 
-  puts answer = "Outlook good"
+  answer = "Outlook good"
   when 9 
-  puts answer = "Yes"
+  answer = "Yes"
   when 10 
-  puts answer = "Signs point to yes"
+  answer = "Signs point to yes"
   when 11
-  puts answer = "Reply hazy try again"
+  answer = "Reply hazy try again"
   when 12
-  puts answer = "Ask again later"
+  answer = "Ask again later"
   when 13
-  puts answer = "Better not tell you now"
+  answer = "Better not tell you now"
   when 14 
-  puts answer = "Cannot predict now"
+  answer = "Cannot predict now"
   when 15 
-  puts answer = "Concentrate and ask again"
+  answer = "Concentrate and ask again"
   when 16 
-  puts answer = "Don't count on it"
+  answer = "Don't count on it"
   when 17 
-  puts answer = "My reply is no"
+  answer = "My reply is no"
   when 18 
-  puts answer = "My sources say no"
+  answer = "My sources say no"
   when 19 
-  puts answer = "Outlook not so good"
+  answer = "Outlook not so good"
   when 20
-  puts answer = "Very doubtful"
+  answer = "Very doubtful"
 end
   
 end
